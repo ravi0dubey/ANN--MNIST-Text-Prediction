@@ -20,3 +20,4 @@ Execution In a Anaconda terminal or command window, navigate to the top-level pr
 Solution
 
 Load the dataset
+![image](https://user-images.githubusercontent.com/38419795/214280869-d7187caf-31b2-4758-b9c6-0e879c0b2b25.png)
